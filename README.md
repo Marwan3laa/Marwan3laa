@@ -25,7 +25,6 @@
   <img width="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appcelerator/appcelerator-original.svg" height="55" alt="appcelerator logo"  />
   <img width="80" />
-  <img src="https://cdn.simpleicons.org/angular/DD0031" height="55" alt="angularjs logo"  />
 </div>
 
 ###
