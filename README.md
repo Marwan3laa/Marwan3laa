@@ -30,7 +30,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Marwan3laa/Marwan3laa/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 
