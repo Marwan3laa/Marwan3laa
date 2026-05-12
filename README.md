@@ -1,4 +1,4 @@
-<h1 align="center">bonjour, Marwan Alaa Sadek </h1>
+<h1 align="center">Shalom, Marwan Alaa Sadek </h1>
 <h3 align="center"> HNU FCS&IT Student </h3><p align="center">
 
 <p align="center">
@@ -9,29 +9,26 @@
   <img height="300" src="https://i.pinimg.com/originals/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg"  />
 </div>
 
-🌟 About Me
+ About Me
 
 - HNU FCS&IT
 - Interested in Data Analysis & Business Intelligence
 - Currently improving my Python skills
 - Love building real-world projects
 ---
- What I'm Working On
+Projects
 
-- Python & Problem Solving
-- Data Analysis (Pandas, Excel, SQL)
-- Building practical projects
----
-  Goals
-- Become a professional Data Analyst
-- Master Python & SQL
-- Work on real-world business problems
+-  Hospital-Management-system-in-linux-with-C
+-  Cooking-Recipe-Website
+-  Restaurant-Management-System
+-  Connect_4_with_AI_bot
+-  Sports_News_Website
+  
 ---
 
-🛠️ Languages & Tools
+ Languages & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,mysql,git,html,flask,django" /> <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" height="55" alt="redhat logo" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="55" alt="java logo" />
@@ -47,20 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appcelerator/appcelerator-original.svg" height="55" alt="appcelerator logo" />
 </div>
 
-🚀 Projects
-
-- 🔹 Electronics-Project-Light-sensor-
-- 🔹 Hospital-Management-system-in-linux-with-C
-- 🔹 Cooking-Recipe-Website
-- 🔹 Restaurant-Management-System
-- 🔹 Connect_4_with_AI_bot
-- 🔹 Sports_News_Website
 ---
-✨ Always learning, always growing...
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=yvhhvhnh3mh92ql3ypzp455ev" alt="Spotify Recently Played" />
-</p>
+
+
 
 
 
