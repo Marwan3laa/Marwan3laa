@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Bonjour , Welcome to my humble profile , I'm Marwan</h1>
 
-<!--
-**Marwan3laa/Marwan3laa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="center">Bug hunter<br>Engaged to claude</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left"></p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg" height="55" alt="redhat logo"  />
+  <img width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="55" alt="java logo"  />
+  <img width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" height="55" alt="vscode logo"  />
+  <img width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-plain.svg" height="55" alt="storybook logo"  />
+  <img width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" height="55" alt="linkedin logo"  />
+  <img width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-plain-wordmark.svg" height="55" alt="jupyter logo"  />
+  <img width="90" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appcelerator/appcelerator-original.svg" height="55" alt="appcelerator logo"  />
+  <img width="90" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="55" alt="angularjs logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Marwan3laa/Marwan3laa/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/7b/87/1c/7b871cee4ff324b9cc17ea028b4074ce.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/JuipZ">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=JuipZ&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
