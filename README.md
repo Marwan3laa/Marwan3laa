@@ -13,7 +13,7 @@
 
 ## 👋 About Me
 
-I’m a **Full-Stack Developer & Systems Enthusiast** focused on building modern, scalable web applications with clean architecture and smooth, well-crafted user experiences.
+I’m an Aspiring **Full-Stack Developer & Systems Enthusiast** focused on building modern, scalable web applications with clean architecture and smooth, well-crafted user experiences.
 
 I enjoy working across the stack, combining responsive and minimal UI design with solid backend logic. I care about code quality, performance, and creating systems that are easy to maintain and scale.
 
