@@ -48,7 +48,7 @@ I enjoy working across the stack, combining responsive and minimal UI design wit
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=B&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 
