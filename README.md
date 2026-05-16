@@ -29,11 +29,26 @@ I enjoy working across the stack, combining responsive and minimal UI design wit
 * Continuously learning and shipping better code
 
 
+### Selected projects
+
+| Project | Description |
+|---|---|
+| **[Connect 4 with AI bot ](https://github.com/M0SAIF-ANTNET/Connect_4_with_AI_bot)** | This project implements an Intelligent Connect Four player that plays against a human user. (Minimax algorithm , heuristic algorithm , alpha beta pruning). |
+| **[Restaurent-System](https://github.com/Mohamed-Elfardy/Restaurant-system)** | A fully custom-built, console-based Java application — engineered from scratch.( A comprehensive, modular Restaurant Management System built using core Java , OOP)  |
+| **[Cooking-Recipe-Website-](https://github.com/Mohamed-Elfardy/Cooking-Recipe-Website-)** | Website that can help users make&find their favourite recipes with a modern and easy way , Helping chefs to find opportunities (Using JavaScript , HTML&CSS). |
+| **[Hospital-Management-system-in-linux-with-C](https://github.com/M0SAIF-ANTNET/Hospital-Management-system-in-linux-with-C)** | Hospital management system reliable for professional use ( bulit From A~Z using C in linux ). |
+| **[apk-components-inspector](https://github.com/thecybersandeep/apk-components-inspector)** | Python CLI that enumerates exported components from an APK and emits ready-to-run `am` commands for each. |
+
+
+
+
+
+
 ![GitHub Snake Animation](https://raw.githubusercontent.com/Marwan3laa/Marwan3laa/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=h0tak88r&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=M&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 
