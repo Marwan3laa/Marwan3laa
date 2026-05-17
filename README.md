@@ -44,7 +44,7 @@ I enjoy working across the stack, combining responsive and minimal UI design wit
 
 
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/Marwan3laa/Marwan3laa/output/github-contribution-grid-snake.svg)
+<!-- ![GitHub Snake Animation](https://raw.githubusercontent.com/Marwan3laa/Marwan3laa/output/github-contribution-grid-snake.svg) -->
 
 
 <p align="center">
